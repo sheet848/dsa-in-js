@@ -5,7 +5,11 @@
 // Input: x = 10   ----->>>>>   Output: false
 
 var isPalindrome = function (x) {
-  return x === +x.toString().split("").reverse().join("");
+  // if (x < 0) return false;  ----> to save time for calculation if negative num discovered
+  
+  // return x === +x.toString().split("").reverse().join(""); ---> original solution
+
+  return x < 0 ? false : x === +x.toString().split("").reverse().join("");
 };
 
 const res = isPalindrome(10);
