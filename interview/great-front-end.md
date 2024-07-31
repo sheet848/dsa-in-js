@@ -1,0 +1,109 @@
+# Great Front End
+
+- [ ] Describe the difference between `<script>`, `<script async>` and `<script defer>`
+- [ ] Explain how prototypal inheritance works
+- [ ] Explain how `this` works in JavaScript
+- [ ] Explain your understanding of the box model and how you would tell the browser in CSS to render your layout in different box models.
+- [ ] What are the differences between variables created using `let`, `var` or `const`?
+- [ ] What does `* { box-sizing: border-box; }` do?
+- [ ] What is CSS selector specificity and how does it work?
+- [ ] What is the CSS `display` property and can you give a few examples of its use?
+- [ ] What is the difference between `==` and `===` in JavaScript?
+- [ ] What's the difference between a variable that is: `null`, `undefined` or undeclared?
+- [ ] What's the difference between `.call` and `.apply`?
+- [ ] Describe the difference between a cookie, `sessionStorage` and `localStorage`.
+- [ ] What's the difference between a `relative`, `fixed`, `absolute`, `sticky` and `static`-ally positioned element?
+- [ ] What's the difference between `inline` and `inline-block`?
+- [ ] Can you offer a use case for the new arrow => function syntax?
+- [ ] Why is it generally a good idea to position CSS `<link>`s between `<head></head>` and JS `<script>`s just before `</body>`?
+- [ ] Describe event bubbling
+- [ ] Describe event capturing
+- [ ] Explain event delegation
+- [ ] Explain `Function.prototype.bind`
+- [ ] Explain "hoisting"
+- [ ] Explain how a browser determines what elements match a CSS selector.
+- [ ] Explain the difference between synchronous and asynchronous functions
+- [ ] Have you played around with the new CSS Flexbox or Grid specs?
+- [ ] Is there any reason you'd want to use `translate()` instead of `absolute` positioning, or vice-versa? And why?
+- [ ] What are `Symbol`s used for?
+- [ ] What are the differences between `Map`/`Set` vs `WeakMap`/`WeakSet`?
+- [ ] What are the pros and cons of using Promises instead of callbacks?
+- [ ] What are the various ways to create objects in JavaScript?
+- [ ] What are workers in JavaScript used for?
+- [ ] What is a closure, and how/why would you use one?
+- [ ] What is event loop?
+- [ ] What language constructions do you use for iterating over object properties and array items?
+- [ ] What's a typical use case for anonymous functions?
+- [ ] Describe Block Formatting Context (BFC) and how it works.
+- [ ] Describe `float`s and how they work.
+- [ ] Describe pseudo-elements and discuss what they are used for.
+- [ ] Describe `z-index` and how stacking context is formed.
+- [ ] What kind of things must you be wary of when designing or developing for multilingual sites?
+- [ ] Difference between: `function Person(){}`, `const person = Person()`, and `const person = new Person()`?
+- [ ] Explain AJAX in as much detail as possible
+- [ ] Explain CSS sprites, and how you would implement them on a page or site.
+- [ ] Explain how JSONP works (and how it's not really Ajax)
+- [ ] Explain the difference between mutable and immutable objects
+- [ ] Explain the differences between CommonJS modules and ES modules
+- [ ] Explain the differences on the usage of `foo` between `function foo() {}` and `var foo = function() {}`
+- [ ] Explain what a single page app is and how to make one SEO-friendly
+- [ ] Have you ever used a grid system, and if so, what do you prefer?
+- [ ] How do you abort a web request using `AbortController`?
+- [ ] How do you serve a page with content in multiple languages?
+- [ ] How do you serve your pages for feature-constrained browsers?
+- [ ] How does JavaScript garbage collection work?
+- [ ] How is responsive design different from adaptive design?
+- [ ] How would you approach fixing browser-specific styling issues?
+- [ ] What advantage is there for using the arrow syntax for a method in a constructor?
+- [ ] What are `data-` attributes good for?
+- [ ] What are iterators and generators and what are they used for?
+- [ ] What are JavaScript polyfills for?
+- [ ] What are server-sent events?
+- [ ] What is the definition of a higher-order function?
+- [ ] What is `"use strict";`?
+- [ ] What's the difference between "resetting" and "normalizing" CSS?
+- [ ] Why is it, in general, a good idea to leave the global scope of a website as-is and never touch it?
+- [ ] Are you familiar with styling SVG?
+- [ ] Can you describe the main difference between a `.forEach` loop and a `.map()` loop?
+- [ ] Can you explain the difference between coding a website to be responsive versus using a mobile-first strategy?
+- [ ] Can you give an example for destructuring an object or an array?
+- [ ] Can you give an example of a curry function and why this syntax offers an advantage?
+- [ ] Can you give an example of an `@media` property other than `screen`?
+- [ ] Create a for loop that iterates up to `100` while outputting **"fizz"** at multiples of `3`, **"buzz"** at multiples of `5` and **"fizzbuzz"** at multiples of `3` and `5`
+- [ ] Describe what you like and dislike about the CSS preprocessors you have used.
+- [ ] Difference between document `load` event and document `DOMContentLoaded` event?
+- [ ] ES2015 Template Literals offer a lot of flexibility in generating strings, can you give an example?
+- [ ] Explain the same-origin policy with regards to JavaScript
+- [ ] Explain why the following doesn't work as an IIFE: `function foo(){ }();`. What needs to be changed to properly make it an IIFE?
+- [ ] Have you ever worked with retina graphics?
+- [ ] Have you used or implemented media queries or mobile-specific layouts/CSS?
+- [ ] How can you share code between files?
+- [ ] How do you organize your code?
+- [ ] Consider HTML5 as an open web platform. What are the building blocks of HTML5?
+- [ ] What are JavaScript object getters and setters for?
+- [ ] What are JavaScript object property flags and descriptors?
+- [ ] What are the advantages/disadvantages of using CSS preprocessors?
+- [ ] What are the differences between ES2015 classes and ES5 function constructors?
+- [ ] What are the differences between `XMLHttpRequest` and `fetch()`?
+- [ ] What are the different ways to visually hide content (and make it available only for screen readers)?
+- [ ] What is progressive rendering?
+- [ ] What's the difference between an "attribute" and a "property"?
+- [ ] What's the difference between feature detection, feature inference, and using the UA string?
+- [ ] Why you would use a `srcset` attribute in an image tag?
+- [ ] What are some of the advantages/disadvantages of writing JavaScript code in a language that compiles to JavaScript?
+- [ ] What are some of the "gotchas" for writing efficient CSS?
+- [ ] What are the advantages and disadvantages of using AJAX?
+- [ ] What are the benefits of using spread syntax and how is it different from rest syntax?
+- [ ] What are the various clearing techniques and which is appropriate for what context?
+- [ ] What are the various data types in JavaScript?
+- [ ] What do you think of AMD vs CommonJS?
+- [ ] What does a `DOCTYPE` do?
+- [ ] What existing CSS frameworks have you used locally, or in production?
+- [ ] What is the extent of your experience with Promises and/or their polyfills?
+- [ ] What tools and techniques do you use for debugging JavaScript code?
+- [ ] What's the difference between host objects and native objects?
+- [ ] When would you use `document.write()`?
+- [ ] Why is extending built-in JavaScript objects not a good idea?
+- [ ] Why is it called a Ternary expression, what does the word "Ternary" indicate?
+- [ ] Why would you use something like the `load` event?
+- [ ] Why might you want to create static class members?
