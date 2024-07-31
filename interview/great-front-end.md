@@ -1,5 +1,7 @@
 # Great Front End
 
+[Source Link](https://www.greatfrontend.com/questions/quiz/describe-the-difference-between-script-async-and-script-defer)
+
 - [ ] Describe the difference between `<script>`, `<script async>` and `<script defer>`
 - [ ] Explain how prototypal inheritance works
 - [ ] Explain how `this` works in JavaScript
