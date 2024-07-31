@@ -2,7 +2,7 @@
 
 [Source Link](https://www.greatfrontend.com/questions/quiz/describe-the-difference-between-script-async-and-script-defer)
 
-- [ ] Describe the difference between `<script>`, `<script async>` and `<script defer>`
+- [X] Describe the difference between `<script>`, `<script async>` and `<script defer>`
 - [ ] Explain how prototypal inheritance works
 - [ ] Explain how `this` works in JavaScript
 - [ ] Explain your understanding of the box model and how you would tell the browser in CSS to render your layout in different box models.
