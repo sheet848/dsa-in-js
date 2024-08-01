@@ -1,4 +1,4 @@
-## Capgemini
+## Part1
 
 - Purpose of meta tag?
 - How meta tag affect SEO optimization?
