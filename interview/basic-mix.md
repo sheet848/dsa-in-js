@@ -32,3 +32,8 @@
 [Link1](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax#spread_in_function_calls)
 [Link2](https://www.tutorialspoint.com/javascript/javascript_spread_operator.htm)
 
+- Explain the concept of destructuring.
+- What is object destructuring?
+- How is destructuring useful in function parameters?
+[Link1](https://www.tutorialspoint.com/javascript/javascript_destructuring_assignment.htm)
+[Link2](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
