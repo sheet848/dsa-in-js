@@ -22,3 +22,9 @@
 - Describe fetch API in Javascript.
 [Link1](https://www.tutorialspoint.com/javascript/javascript_fetch_api.htm)
 
+- Discuss the use of let and const.
+- What about the benefits of let and const.
+[Link1](https://www.greatfrontend.com/questions/quiz/what-are-the-differences-between-variables-created-using-let-var-or-const)
+[Link2](https://medium.com/swlh/the-difference-of-var-vs-let-vs-const-in-javascript-abe37e214d66)
+
+
