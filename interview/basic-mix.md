@@ -27,4 +27,7 @@
 [Link1](https://www.greatfrontend.com/questions/quiz/what-are-the-differences-between-variables-created-using-let-var-or-const)
 [Link2](https://medium.com/swlh/the-difference-of-var-vs-let-vs-const-in-javascript-abe37e214d66)
 
-
+- Do you know about spread operator?
+- How spread operator used with function arguments?
+[]()
+[]()
