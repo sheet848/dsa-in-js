@@ -10,3 +10,7 @@
 - What would be a good alt text for a company logo?
 [Link1](https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/alt)
 
+- What happens when margin and padding values are negative?
+[Link1](https://blog.shimin.io/are-css-negative-margins-bad-practice/)
+[Link2](https://stackoverflow.com/questions/4973988/why-does-css-not-support-negative-padding)
+
