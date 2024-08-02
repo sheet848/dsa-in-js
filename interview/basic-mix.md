@@ -29,5 +29,6 @@
 
 - Do you know about spread operator?
 - How spread operator used with function arguments?
-[]()
-[]()
+[Link1](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax#spread_in_function_calls)
+[Link2](https://www.tutorialspoint.com/javascript/javascript_spread_operator.htm)
+
