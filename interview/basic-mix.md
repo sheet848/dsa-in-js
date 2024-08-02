@@ -19,3 +19,6 @@
 - What are the benefits of using modules?
 [Link1](https://www.turing.com/kb/javascript-modules)
 
+- Describe fetch API in Javascript.
+[Link1](https://www.tutorialspoint.com/javascript/javascript_fetch_api.htm)
+
