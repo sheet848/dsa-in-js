@@ -40,3 +40,6 @@
 
 - What is event loop?
 [Link1](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Event_loop)
+- Explain the difference between CallStack and Task Queue.
+[Link2](https://medium.com/jsninja/call-stack-event-loop-and-task-queue-d49eff2ec7bb)
+
